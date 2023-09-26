@@ -1,4 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.everythingscience.net/"
 languageCode = "en-us"
 title = "Everything Science Test"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[taxonomies]
+    tag = "tags"
+
+[languages]
+  [languages.en]
+    title = "EverythingScience"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
