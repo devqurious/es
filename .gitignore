@@ -1,0 +1,9 @@
+.DS_Store
+static/images/moon/.DS_Store
+themes/ananke
+.obsidian/
+content/.obsidian/
+public/
+content/templates
+content/vault
+content/.trash
