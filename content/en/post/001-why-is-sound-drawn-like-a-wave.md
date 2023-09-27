@@ -1,8 +1,8 @@
 ---
 title: "Why is sound drawn like a wave?"
-date: 2020-09-24
-thumb_image: "/post/attachments/simple-electric-motor.jpg"
-featured_image: 'post/attachments/everything.png'
+date: 2023-09-21
+thumb_image: "post/attachments/everything.png"
+featured_image: "post/attachments/everything.png"
 draft: false
 tags: ["physics"]
 categories:
