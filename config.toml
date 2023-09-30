@@ -2,7 +2,7 @@ baseURL = "https://www.everythingscience.net/"
 languageCode = "en-us"
 title = "Everything Science Test"
 googleAnalytics = "G-NPNDXM7BEL"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
