@@ -8,3 +8,5 @@ tags: ["physics"]
 categories:
     - post
 ---
+
+This discovery of the atom was done by John Dalton.
